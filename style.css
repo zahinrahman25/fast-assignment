@@ -1,4 +1,5 @@
-body{font-family: 'Righteous', cursive;}
+body{font-family: 'Righteous', cursive;
+margin: 0%;}
 .one{color: royalblue;}
 .anchor-button{text-decoration: none;
     background-color: royalblue;
@@ -10,4 +11,9 @@ font-weight: 400;}
 .inline{display: flex;}
     .alpha{width: 40%;
     padding-left: 5%;}
-    .beta{width: 60%;}
+    .bravo{width: 60%;}
+    .charlie{width: 70%;
+        padding-left: 10%;}
+    .delta{width: 40%;}
+    .bgimg{background-image: url(photo/Frame\ 57.jpg);
+    background-repeat: no-repeat;}
