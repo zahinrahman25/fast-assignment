@@ -12,15 +12,16 @@ background-image: linear-gradient(cyan, royalblue);
 color: white;
 font-weight: 400;}
 .inline{display: flex;}
-    .alpha{width: 40%;
+.alpha
+{width: 40%;
     padding-left: 5%;}
-    .bravo{width: 60%;}
-    .charlie{width: 60%;
+.bravo{width: 60%;}
+.charlie{width: 60%;
         padding-left: 15%;}
-    .delta{width: 40%;}
-    .bgimg{background-image: url(photo/Frame\ 57.jpg);
+.delta{width: 40%;}
+.bgimg{background-image: url(photo/Frame\ 57.jpg);
     background-repeat: no-repeat;}
-    .echo{box-shadow: 5px 5px 15px royalblue;
+.echo{box-shadow: 5px 5px 15px royalblue;
         width: 100%;
         margin-left: 5%;
         margin-right: 5%;
@@ -30,13 +31,13 @@ font-weight: 400;}
         border: 2px solid;
         border-color: royalblue;
         border-radius: 30px;}
-        .uniq{text-align: center;}
-        .zulu{border-radius: 30px;
+.uniq{text-align: center;}
+.zulu{border-radius: 30px;
         width: 100%;}
-        footer{text-align: center;
+footer{text-align: center;
         color: red;
         background-color: black;}
-        .xray{
+.xray{
             background-color: black;
             color: red;}
-            .victor{color: orange;}
+.victor{color: orange;}
