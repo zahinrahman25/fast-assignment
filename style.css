@@ -1,0 +1,13 @@
+body{font-family: 'Righteous', cursive;}
+.one{color: royalblue;}
+.anchor-button{text-decoration: none;
+    background-color: royalblue;
+    padding: 10px 40px;
+border-radius: 4px;
+background-image: linear-gradient(cyan, royalblue);
+color: black;
+font-weight: 400;}
+.inline{display: flex;}
+    .alpha{width: 40%;
+    padding-left: 5%;}
+    .beta{width: 60%;}
